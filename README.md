@@ -6,4 +6,4 @@
 <a href="https://github.com/Cursed-Entertainment/Image-Uploader-Resizer/actions/workflows/proof-html.yml">
     <img class="workflow-badge workflow-success" src="https://github.com/Cursed-Entertainment/Image-Uploader-Resizer/actions/workflows/proof-html.yml/badge.svg" alt="Proof HTML Workflow">
 </a>
-# HTML template for Cursed Entertainment
+<h1>Cursed Entertainment HTML Template</h1>
